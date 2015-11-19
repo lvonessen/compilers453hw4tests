@@ -1,0 +1,15 @@
+Loaded: /usr/local/share/spim/exceptions.s
+if 1: 11, 97
+if 1: 11, -97
+else 1: 10, 97
+if 1: -122, 97
+else 1: 10, -97
+else 1: -122, -97
+8, 4, 2, 1, 0, 
+-->done with while
+15, 7, 3, 1, 0, 
+-->done with while
+0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 
+-->done with for
+0, 2, 4, 6, 8, 10, 12, 14, 16, 
+-->done with for
